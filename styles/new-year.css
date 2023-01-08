@@ -4,7 +4,6 @@
 
 .header {
     background-image: url('/images/banner/banner2.png');
-    width: 1600px;
     height: 809px;
     display: flex;
     align-items: center;
@@ -138,7 +137,6 @@ section{
 
 }
 .image{
-    width: 1140px;
     height: 300px;
     border-radius: 8px;
     background-image: linear-gradient(to right, orange, transparent);
@@ -178,7 +176,6 @@ section{
 .footer{
     margin-top: 50px;
     background-color: #151414;
-    width: 1600px;
     height: 577px;
     color: #FFFFFF;
 }
