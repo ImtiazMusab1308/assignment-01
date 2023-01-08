@@ -1,0 +1,248 @@
+*{
+    margin: 0;
+}
+
+.header {
+    background-image: url('/images/banner/banner2.png');
+    width: 1600px;
+    height: 809px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+
+.banner-description{
+    
+    color: black;
+    font-size: 65px;
+    margin-bottom: 20px;
+    width: 525px;
+    height: 228px;  
+    line-height: 76px;
+    text-align: right;
+       
+}
+.banner-sub-description{
+    
+    width: 494px;
+    height: 78px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    color: #444343;
+    
+}
+.banner{
+    
+    text-align: end;
+    margin: 0 240px;
+
+}
+
+.btn-primary{
+    height: 54px;
+    border-radius: 5px;
+    background-color: #FD6E0A;
+    border: 0;
+    padding: 19px 25px;
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 10px;
+
+}
+/* main section */
+
+section{
+    margin-top: 130px;
+}
+/* section style */
+
+.my-failures{
+    margin-top: 130px;
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: left;
+
+}
+.section-title{
+    width: 288px;
+    height: 94px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    margin-bottom: 20px;
+    color: #151414;
+
+}
+.section-description{
+    color: #444343;
+    font-size: 16px;
+    margin-bottom: 20px;
+    line-height: 26px;
+    font-weight: 400;
+    width: 416px;
+    
+}
+.failure-item{
+    margin-bottom: 10px;
+
+}
+
+.failure-container {
+    display: flex;
+    gap: 40px;
+    justify-content: space-around;
+    align-items: center;
+}
+/* my plans styles */
+.my-plans{
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 50px 60px;
+    text-align: center;
+}
+
+
+.skill-container{
+    display: flex;
+    gap: 24px;
+    align-items: center;
+    height: 299.96px;
+    justify-content: space-around;
+}
+.skill-title{
+    height: 35px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;  
+    color: #151414;
+    text-align: center;
+    margin-bottom: 10px; 
+    
+
+}
+.skill-description{
+    
+    font-size: 18px;
+    margin-bottom: 30px;   
+
+}
+.image{
+    width: 1140px;
+    height: 300px;
+    border-radius: 8px;
+    background-image: linear-gradient(to right, orange, transparent);
+    display: flex;
+    align-items: center;
+
+}
+.contact-section{
+    padding: 0px 100px;
+}
+.image-description{
+    width: 459px;
+    height: 94px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    
+    color: #FFFFFF;
+
+}
+.call-btn{
+    height: 54px;
+    border-radius: 5px;
+    color: #FD6E0A;
+    border: 0;
+    padding: 19px 25px;
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 10px;
+    
+}
+.call-now{
+    padding: 50px 50px ;
+}
+.footer{
+    margin-top: 50px;
+    background-color: #151414;
+    width: 1600px;
+    height: 577px;
+    color: #FFFFFF;
+}
+.footer-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+}
+.future{
+    width: 485px;
+
+}
+.subscribe{
+    width: 325px;
+}
+.future-title{
+    width: 148px;
+    height: 53px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+
+}
+.future-description{
+    width: 485px;
+    height: 78px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+
+
+}
+.contact{
+    margin-top: 15px;
+
+}
+.sub-title{
+    width: 123px;
+    height: 29px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+
+}
+.sub-btn{
+    height: 40px;
+    border-radius: 5px;
+    color: #FD6E0A;
+    border: 0;
+    padding: 5px 20px;
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+.email{
+    width: 325px;
+    height: 50px;
+    border-radius: 8px;
+    margin-top: 10px;
+}
